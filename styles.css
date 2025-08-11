@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#openMic{
+    padding: 10px;
+    outline: none;
+    border: 1px solid rgb(87, 207, 255);
+    background-color: skyblue;
+    border-radius: 4px;
+}
